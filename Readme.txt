@@ -9,3 +9,6 @@ Y ahora estoy en la rama master sin haber integrado aun la rama RAMA....¿qué pas
 Esto lo estoy haciendo desde la rama "Rama" haciendo pruebas con los branch...
 
 Y resolviendo el merge erroneo todo parece funcionar genial.
+
+
+hola desde g.singular
