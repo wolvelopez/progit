@@ -11,4 +11,8 @@ Esto lo estoy haciendo desde la rama "Rama" haciendo pruebas con los branch...
 Y resolviendo el merge erroneo todo parece funcionar genial.
 
 
+
 hola soy el tonto de andres haciendome penar.
+
+hola desde g.singular
+
